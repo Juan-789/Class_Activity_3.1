@@ -7,3 +7,4 @@ if question.lower == true:
   print ("The statement is true. ")
 else:
   print("the statement is false. ")
+#Checks if the user entered the right value
